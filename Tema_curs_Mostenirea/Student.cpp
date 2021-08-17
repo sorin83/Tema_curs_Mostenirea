@@ -7,7 +7,7 @@
 
  void Student::univv()
  {
-	 std::cout << " la Universitatea Transilvania Brasov ";
+	 std::cout << "la Universitatea Transilvania Brasov ";
  }
 
  void Doctorand::stiinte()
@@ -23,5 +23,5 @@
 
  void StudentLicentiat::licentiat()
  {
-	 std::cout << " Sunt student si mi-am luat licenta in ingineria Instalatiilor ";
+	 std::cout << "Sunt student si mi-am luat licenta in ingineria Instalatiilor ";
  }
